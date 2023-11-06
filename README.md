@@ -3,6 +3,6 @@ This repository ("repo") will take car information and tell you how much the car
 .
 
 1. Car Information
-> Makem Model, Year, Cost, Damage
+> Make Model, Year, Cost, Damage
 2. Price
 
