@@ -1,1 +1,7 @@
-
+- [x] Create Read.me DONE
+- [X] Import necessary modules
+- [ ] Upload dataset for cars
+- [ ] Run the code, locate problems
+- [ ] Create pull requests
+- [ ] Work each problem and find a solution
+- [ ] Make notes of successful changes, and also unscuccessful attempts
